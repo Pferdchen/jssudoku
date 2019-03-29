@@ -1,2 +1,2 @@
 # jssudoku
-Implement sudoku with JavaScript (ES6).
+Implement Sudoku with JavaScript (ES6).
